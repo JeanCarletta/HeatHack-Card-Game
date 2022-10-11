@@ -53,6 +53,11 @@ chapters:
     - file: windows/36-install-secondary-glazing
     - file: windows/37-install-temporary-secondary-glazing
 - file: electricity
+  sections:
+    - file: electricity/39-install-motion-sensors-for-some-electrics.md
+    - file: electricity/40-put-countdown-timers-on-some-electrics
+    - file: electricity/41-switch-to-more-efficient-appliances
+    - file: electricity/42-update-your-lighting
 
 - file: generation
 
