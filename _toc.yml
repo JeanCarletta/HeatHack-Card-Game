@@ -1,0 +1,74 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+chapters:
+- file: game-intro/intro
+- file: game-intro/reading-a-card
+- file: game-intro/how-to-play
+- file: small-heating-changes
+  sections:
+    - file: small-heating-changes/1-limit-your-thermostats
+    - file: small-heating-changes/2-turn-down-your-boiler-thermostat
+    - file: small-heating-changes/3-zone-your-heating
+    - file: small-heating-changes/4-update-your-heating-controls
+    - file: small-heating-changes/5-check-your-frost-arrangements
+    - file: small-heating-changes/6-reduce-the-available-heat-output
+    - file: small-heating-changes/7-fix-a-cold-radiator
+    - file: small-heating-changes/8-reduce-the-hot-water-temperature
+    - file: small-heating-changes/9-turn-off-hot-water-preheat
+    - file: small-heating-changes/10-disable-the-heating-in-summer
+    - file: small-heating-changes/11-place-foil-behind-radiators
+    - file: small-heating-changes/12-review-heating-and-hot-water-timings
+- file: big-heating-changes
+  sections:
+    - file: big-heating-changes/13-replace-your-boiler-with-a-heat-pump
+    - file: big-heating-changes/14-connect-to-a-district-heating-scheme
+    - file: big-heating-changes/15-remove-a-hot-water-tank
+    - file: big-heating-changes/16-install-heated-seating
+    - file: big-heating-changes/17-add-or-switch-to-infrared-heating
+    - file: big-heating-changes/18-switch-to-a-biomass-boiler
+- file: heat-loss-measures
+  sections:
+    - file: heat-loss-measures/19-draughtproof-the-building
+    - file: heat-loss-measures/20-create-a-draught-lobby
+    - file: heat-loss-measures/21-close-doors-automatically
+    - file: heat-loss-measures/22-install-air-curtains
+    - file: heat-loss-measures/23-install-destratification-fans
+    - file: heat-loss-measures/24-insulate-under-the-ground-floor
+    - file: heat-loss-measures/25-insulate-the-roof
+    - file: heat-loss-measures/26-insulate-the-walls
+    - file: heat-loss-measures/27-install-heat-recovery-extractor-fans
+    - file: heat-loss-measures/28-insulate-hot-water-pipework-and-tank
+    - file: heat-loss-measures/29-insulate-heating-pipework
+    - file: heat-loss-measures/30-reduce-the-size-of-heated-spaces
+    - file: heat-loss-measures/31-control-ventilation-automatically
+- file: windows
+  sections:
+    - file: windows/32-install-blinds-against-solar-gain
+    - file: windows/33-add-heat-reflecting-film
+    - file: windows/34-close-fitting-thermal-curtains-or-blinds
+    - file: windows/35-replace-single-glazing-with-double-or-triple
+    - file: windows/36-install-secondary-glazing
+    - file: windows/37-install-temporary-secondary-glazing
+- file: electricity
+
+- file: generation
+
+- file: management
+
+- file: behaviour-change
+
+- file: actions-weve-excluded
+  sections:
+    - file: actions-weve-excluded/hydrogen-ready-boiler
+    - file: actions-weve-excluded/micro-chp
+    - file: actions-weve-excluded/solar-panels-for-hot-water
+    - file: actions-weve-excluded/turn-electrics-off-at-plug
+
+
+
+
+    
