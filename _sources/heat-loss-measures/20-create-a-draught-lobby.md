@@ -22,3 +22,5 @@
 ```
 :::
 ::::
+
+Heat is lost when doors and windows are opened to the outside. By providing sufficient space for the outer door to be closed before opening the inner door, the draught lobby functions something like an air lock.  If you always need to have both doors open at the same time, a draught lobby won’t help.
