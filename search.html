@@ -1,0 +1,564 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Search &#8212; HeatHack Card Game</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="#" />
+  <script src="searchindex.js" defer></script>
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="_static/heat_hack_logo1.png" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">HeatHack Card Game</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="#" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="intro.html">
+                    Introduction
+                </a>
+            </li>
+        </ul>
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="game-intro/reading-a-card.html">
+   The cards
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="game-intro/how-to-play.html">
+   How to use the cards
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="small-heating-changes.html">
+   Small heating changes
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="small-heating-changes/1-limit-your-thermostats.html">
+     Limit your thermostats
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="small-heating-changes/2-turn-down-your-boiler-thermostat.html">
+     Turn down your boiler thermostat
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="small-heating-changes/3-zone-your-heating.html">
+     Zone your heating
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="small-heating-changes/4-update-your-heating-controls.html">
+     Update your heating controls
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="small-heating-changes/5-check-your-frost-arrangements.html">
+     Check your frost arrangements
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="small-heating-changes/6-reduce-the-available-heat-output.html">
+     Reduce the available heat output
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="small-heating-changes/7-fix-a-cold-radiator.html">
+     Fix a cold radiator
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="small-heating-changes/8-reduce-the-hot-water-temperature.html">
+     Reduce the hot water temperature
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="small-heating-changes/9-turn-off-hot-water-preheat.html">
+     Turn off hot water preheat
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="small-heating-changes/10-disable-the-heating-in-summer.html">
+     Disable the heating in summer
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="small-heating-changes/11-place-foil-behind-radiators.html">
+     Place foil behind radiators
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="small-heating-changes/12-review-heating-and-hot-water-timings.html">
+     Review heating and hot water timings
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="big-heating-changes.html">
+   Big heating changes
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="big-heating-changes/13-replace-your-boiler-with-a-heat-pump.html">
+     Replace your boiler with a heat pump
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="big-heating-changes/14-connect-to-a-district-heating-scheme.html">
+     Connect to a district heating scheme
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="big-heating-changes/15-remove-a-hot-water-tank.html">
+     Remove a hot water tank
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="big-heating-changes/16-install-heated-seating.html">
+     Install heated seating
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="big-heating-changes/17-add-or-switch-to-infrared-heating.html">
+     Add or switch to infrared heating
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="big-heating-changes/18-switch-to-a-biomass-boiler.html">
+     Switch to a biomass boiler
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="heat-loss-measures.html">
+   Heat loss measures
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/19-draughtproof-the-building.html">
+     Draughtproof the building
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/20-create-a-draught-lobby.html">
+     Create a draught lobby
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/21-close-doors-automatically.html">
+     Close doors automatically
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/22-install-air-curtains.html">
+     Install air curtains
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/23-install-destratification-fans.html">
+     Install destratification fans
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/24-insulate-under-the-ground-floor.html">
+     Insulate under the ground floor
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/25-insulate-the-roof.html">
+     Insulate the roof
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/26-insulate-the-walls.html">
+     Insulate the walls
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/27-install-heat-recovery-extractor-fans.html">
+     Install heat recovery extractor fans
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/28-insulate-hot-water-pipework-and-tank.html">
+     Insulate hot water pipework and tank
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/29-insulate-heating-pipework.html">
+     Insulate heating pipework
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/30-reduce-the-size-of-heated-spaces.html">
+     Reduce the size of heated spaces
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="heat-loss-measures/31-control-ventilation-automatically.html">
+     Control ventilation automatically
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="windows.html">
+   Windows
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="windows/32-install-blinds-against-solar-gain.html">
+     Install blinds against solar gain
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="windows/33-add-heat-reflecting-film.html">
+     Add heat reflecting film
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="windows/34-close-fitting-thermal-curtains-or-blinds.html">
+     Close fitting thermal curtains or blinds
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="windows/36-install-secondary-glazing.html">
+     Install secondary glazing
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="windows/37-install-temporary-secondary-glazing.html">
+     Install temporary secondary glazing
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="electricity.html">
+   Electricity
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="generation.html">
+   Generation
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="management.html">
+   Management
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="behaviour-change.html">
+   Behaviour change
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="actions-weve-excluded.html">
+   Actions we’ve excluded
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="actions-weve-excluded/hydrogen-ready-boiler.html">
+     Replace your boiler with one that is hydrogen-ready
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="actions-weve-excluded/micro-chp.html">
+     Replace a boiler with a combined heat and power system
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="actions-weve-excluded/solar-panels-for-hot-water.html">
+     Install solar panels for hot water
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="actions-weve-excluded/turn-electrics-off-at-plug.html">
+     Turn electrical items off at the plug
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1></h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <h1 id="search-documentation">Search</h1>
+  
+  <noscript>
+  <div class="admonition warning">
+  <p>
+    Please activate JavaScript to enable the search
+    functionality.
+  </p>
+  </div>
+  </noscript>
+  
+  
+  <p>
+    Searching for multiple words only shows matches that contain
+    all words.
+  </p>
+  
+  
+  <form action="" method="get">
+    <input type="text" name="q" aria-labelledby="search-documentation" value="" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+    <input type="submit" value="search" />
+    <span id="search-progress" style="padding-left: 10px"></span>
+  </form>
+  
+  
+  
+  <div id="search-results">
+  
+  </div>
+  
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By HeatHack<br/>
+  
+      &copy; Copyright 2022.<br/>
+    <div class="extra_footer">
+      <p> <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode"> Creative Commons Attribution-ShareAlike 4.0 International Public License </a></p>
+    </div>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>
