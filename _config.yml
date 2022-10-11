@@ -27,6 +27,8 @@ latex:
 
 # sphinx settings to allow use of extensions like grid directive
 sphinx:
+  config:
+    language: en
   extra_extensions:      # A list of extra extensions to load by Sphinx (added to those already used by JB).     :   
     #- myst_parser
     - sphinx_design

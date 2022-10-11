@@ -5,7 +5,6 @@ format: jb-book
 root: intro
 
 chapters:
-- file: game-intro/intro
 - file: game-intro/reading-a-card
 - file: game-intro/how-to-play
 - file: small-heating-changes
