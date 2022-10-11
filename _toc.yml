@@ -54,16 +54,32 @@ chapters:
     - file: windows/37-install-temporary-secondary-glazing
 - file: electricity
   sections:
-    - file: electricity/39-install-motion-sensors-for-some-electrics.md
+    - file: electricity/39-install-motion-sensors-for-some-electrics
     - file: electricity/40-put-countdown-timers-on-some-electrics
     - file: electricity/41-switch-to-more-efficient-appliances
     - file: electricity/42-update-your-lighting
 
 - file: generation
+  sections:
+    - file: generation/43-install-photovoltaic-solar-panels-on-your-roof
+    - file: generation/44-install-solar-panels-on-your-grounds
+    - file: generation/45-install-solar-slates
+    - file: generation/46-handle-solar-gain-with-a-building-feature
 
 - file: management
+  sections:
+    - file: management/47-keep-heating-maintenance-records
+    - file: management/48-restrict-access-to-heating-plant
+    - file: management/49-provide-maintenance-contact-details
+    - file: management/50-maintain-your-radiators-and-convectors
+    - file: management/51-get-smart-meters
+    - file: management/52-keep-your-building-water-tight
 
 - file: behaviour-change
+  sections:
+    - file: behaviour-change/53-unblock-your-radiators
+    - file: behaviour-change/54-control-ventilation-manually
+    - file: behaviour-change/55-cluster-users-together
 
 - file: actions-weve-excluded
   sections:
