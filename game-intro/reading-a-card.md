@@ -20,6 +20,7 @@ Our groups are highly varied:
 
 The cards reflect this range.   Not all actions will be appropriate for all groups.  This makes it hard to give good tailored explanations for them.  Groups need to keep this in mind as they think about the cards, and take professional advice, especially when it comes to older buildings, to avoid damaging their buildings through inappropriate treatment.  The role of the engineer in the group isn't to provide this advice.  Engineers are used to thinking about project management, budgets, and how to choose among different options.  The engineer is here to try to help guide the process and to be the "game master" who has at hand the explanations of what the cards mean.
 
+
 ```{image} ../images/card-costs-and-stars.jpg
 :alt: maps colours to card categories
 :class: bg-primary mb-1
@@ -112,7 +113,7 @@ actions likely to require substantial grant fund-raising and planning, including
 
 
 The levels are very rough and we won't have them all correct.  Our current judgments are probably biased towards 
-traditional buildings in occasional use.  Our ratings and the list of actions itself is something we expect we can improve during the programme.
+traditional buildings in occasional use.  We sometimes include a card because we get asked about the action frequently, even if we think the action is unlikely, and maybe we shouldn't.  Our ratings and the list of actions itself is something we expect we can improve during the programme.
 
 
 
