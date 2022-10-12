@@ -25,4 +25,8 @@
 
 Within reason, you need to keep your heating and hot water timings in sync with what’s happening in your buildings.  If that’s too time-consuming and the building has wifi, you might find it easier with internet controls.  
 
-Also, fine-tuning exactly when the heating goes on and off can help.  In places that just heat for events, they often set the heating for the period when everyone is pushing buggies out the door and bring the heating back on accidentally.  Most places stay warm for a while so you can turn it off ahead of that, especially if you have cast iron radiators.  In theatres, the practice is to stop the heat as soon as the doors are closed, and that works in some community spaces too.
+Also, fine-tuning exactly when the heating goes on and off can help.  In places that just heat for events, they often set the heating for the period when everyone is pushing buggies out the door and bring the heating back on accidentally.  Most places stay warm for a while so you can turn it off ahead of that, especially if you have cast iron radiators.  In theatres, the practice is to stop the heat as soon as the doors are closed, and that works in some community spaces too.  You can use the thermal monitoring to get a sense of whether the heating is coming on too early or staying on too long.
+
+```{admonition} More information
+- [How to set a programmable room thermostat](https://youtu.be/tdd-BzeyVxE)
+```
