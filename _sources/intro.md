@@ -15,7 +15,6 @@ This release of this document has space for all the cards, but these sections ar
 
 - Heat loss measures
 - Windows
-- Generation
 
 We are also still researching good practical and technical links to include and finding case studies for the larger changes.
 ```
