@@ -20,3 +20,9 @@
 ```
 :::
 ::::
+
+
+```{admonition} More information
+- [Retrofit internal wall insulation:  Best practice](https://www.gov.uk/government/publications/retrofit-internal-wall-insulation-best-practice)
+- [Fabric improvements for energy efficiency in traditional buildings](https://www.historicenvironment.scot/archives-and-research/publications/publication/?publicationId=179c1909-3679-4486-9583-a59100fa98c1)
+```
