@@ -45,4 +45,5 @@ For both types of heat pump, usually you will need to change to underfloor heati
 - [What is a heat pump (National Grid)](https://www.nationalgrid.com/stories/energy-explained/what-is-a-heat-pump)
 - [UK Heat and Buildings Strategy](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044598/6.7408_BEIS_Clean_Heat_Heat___Buildings_Strategy_Stage_2_v5_WEB.pdf)
 - [Grants in England and Wales](https://www.gov.uk/guidance/check-if-you-may-be-eligible-for-the-boiler-upgrade-scheme-from-april-2022)
+- [Lots of practical tips about heat pumps in churches (video)](https://www.youtube.com/watch?v=_2mkfUxlkzw)
 ```

@@ -20,3 +20,9 @@
 ```
 :::
 ::::
+
+
+```{admonition} More information
+
+- [Secondary glazing](https://www.cse.org.uk/advice/advice-and-support/secondary-glazing)
+```

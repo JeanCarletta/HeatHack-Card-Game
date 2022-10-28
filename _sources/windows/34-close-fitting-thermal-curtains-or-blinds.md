@@ -23,7 +23,7 @@
 
 Thermal curtains and blinds can be very effective at making people more comfortable.  If they trap air movement, for instance, by being floor length with a box at the top, they slow heat loss, and the curtains themselves will warm with the room, eliminating the discomfort associated with a cold surface.  Some thermal blinds are designed to attach to the window frames when in use.  
 
-Some community buildings make very effective use of thermal door curtains.
+Some community buildings make very effective use of thermal door curtains.  If you put them on a fire exit, keep in mind that they must be left open when the space is in use - but they can really help during the warmup period.
 
 Thermal curtains and blinds vary in how well they work but they can reduce heat loss substantially. The cheapest ones are relatively thin and lightweight, relying on  a tight weave, "blackout" lining, or foam backing to reduce air movement through the curtain.  More expensive ones including a thermal interlining a bit like a blanket, sometimes with a layer of mylar as well.  Because these require some hand-sewing they are expensive to get made up but aren't beyond the skills of many home sewers.  
 
