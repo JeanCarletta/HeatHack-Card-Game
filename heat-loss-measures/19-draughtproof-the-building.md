@@ -43,4 +43,6 @@ Loft hatches, the locations of previous extractor fans, and gaps around pipework
 
 - [How to draughtproof your chimney (Energy Savings Trust)](https://energysavingtrust.org.uk/how-draught-proof-your-chimney/)
 
+- [Draughtproofing in churches (video, from 44:15, with some ingenious cheap tricks)](https://youtu.be/1XIFuU27xY0)
+
 ```

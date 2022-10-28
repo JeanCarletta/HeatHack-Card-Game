@@ -23,24 +23,21 @@
 ::::
 
 
-It’s expensive and bad for the planet if you get frost damage to your heating system or your building that means you have to replace parts, or damage to timber, furnishings, and items like stained glass windows from condensation.  Protecting the building and its contents is important, but often community building operators go about it the wrong way.  
+It’s expensive and bad for the planet if you get frost damage to your heating system or your building that means you have to replace parts, or damage to timber, furnishings, and items like stained glass windows from condensation.  Protecting heating system, building, and its contents is important, but often community building operators go about it the wrong way.  
 
-It's fairly common to see community buildings where the heating comes on for an hour or two a day whether they are occupied or not, "to preserve the building".  This is very expensive.   Instead, you'll want to agree a minimum "setback" temperature for the building and install controls that will enforce it.  This comes as a feature on many heating controls.
+Some boilers will protect themselves by coming on gently if the water in the boiler drops below 5C.  Thia won't necessarily protect the rest of the pipework.  For pipes that aren't in the heated space, insulation can help.  It's also possible to have your maintenance workers put an anti-freeze additive into your system to protect it. 
 
-
-
-You also need frost arrangements to protect wet heating systems.  Some boilers will protect themselves by coming on gently if the water in the boiler drops to 5C.  They won't necessarily protect the rest of the pipework.  Insulation can help with that.  Some older boilers have a similar frost protection mode but require it to be started manually.  
-
-If the boiler doesn't provide the right protection and your only option is to bring the heating on as if there were people in the building, it will be very expensive during extended cold spells.  To reduce the cost, you could use a thermostat to bring on the system pumps when it's cold out.  Moving water doesn't freeze as easily as still water, and this is much more economical than having the heating come full on.  This will allow you to only bring the heating on when the risk of damage is high.  
-
-
+An older arrangement uses a frost stat to bring the boiler on if the air temperature drops near freezing.  This can be very expensive; you'll want to set the frost stat as low as you can to still provide protection.  One way of lowering that temperature is to have the controls bring on the pumps as the temperature approaches freezing and only bring on the heating when the risk is high.  This works because moving water doesn't freeze very easily.
 
 It's also worth checking your frost arrangements are working - by seeing what happens in the autumn - and aren't doing anything unintended.  We found one frost setup in a modern church hall that had been keeping the building at 21C constantly for 10 years because it had been installed incorrectly.
 
+Most conservationists no longer recommend bringing the heating on for an hour or two a day to preserve the building. Instead, you need to understand what minimum temperature your building and its contents requires. This is really a question for your architect, but insurers sometimes specify a minimum temperature in their coverage terms.  If there's a risk you'll fall below that with how you use the building, you can install controls that will enforce a minimum "setback" temperature. This will only bring the heating on when it is actually needed.  Many buildings don't need heating at all as long as they are well-ventilated.  
+ 
+
 ```{admonition} More information
 
-- [More about setback temperatures](https://jeancarletta.github.io/HeatHack-Sessions/avoiding-damp/do-buildings-need-heating.html)
 - [How does boiler frost protection work?](https://www.boilerguide.co.uk/articles/frost-protection-heating)
 - [Frost protection for churches](https://www.churchofengland.org/sites/default/files/2021-01/CCB_frost_protection_COVID_guidance_issue1_January2021.pdf)
+- [frost protection for heating systems and building fabric (video, from 19:07)](https://youtu.be/1XIFuU27xY0)
 
 ```
