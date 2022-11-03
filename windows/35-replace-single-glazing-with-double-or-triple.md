@@ -21,4 +21,4 @@
 :::
 ::::
 
-You won't get any extra benefit from triple glazing unless the walls are well-insulated. 
+For triple glazing to give you any benefit over double glazing, the walls have to be well-insulated.  

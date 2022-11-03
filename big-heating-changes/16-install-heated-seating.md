@@ -37,6 +37,8 @@ One way of making people comfortable is applying heat to the people instead of t
 
 Pew cushions can be used to reduce the reliance on other forms of heating but they can also be used as the sole form of heating, as they are, for instance, in the National Basilica of Slovakia.  There are also similar panel heaters to mount vertically on the back of pews and on altars.
 
+Even just having a cushion or something akin to carpet between people and the surface they're sitting on will improve their thermal comfort.
+
 
 ```{admonition} More information
 - [Rechargeable cushions case study](https://www.churchofengland.org/sites/default/files/2022-09/Technical_guidance_note_heated_cushions_Marown_pilot.pdf)
