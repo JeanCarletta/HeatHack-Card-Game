@@ -24,9 +24,9 @@
 
 If a radiator is cold and not heating a room enough, you or your installer may have turned up the boiler thermostat or increased the pump speed to compensate.  This isn’t as efficient or effective as finding out why the radiator is cold in the first place.  
 
-- You may need to bleed the air from the radiator.
+- If the radiator is cold at the top, you may need to bleed the air from the radiator.
 
-- If the reason is sludge in the system, a powerflush should sort it, and you may need to add a magnetic filter to the system.  
+- If the radiator is cold somewhere else, you may have sludge in it.  A powerflush should sort it, and you may need to add a magnetic filter to the system.  
 
 - Sometimes the problem is a faulty pump. 
 

@@ -26,6 +26,7 @@ We’ve given this 3 stars because it’s not enough to just get the data, you a
 
 
 ```{admonition} More information
+- [Smart meters: a guide for households (UK Government)](https://www.gov.uk/guidance/smart-meters-how-they-work)
 - [Loop app](https://loop.homes/what-is-loop/)
 - [Degree Day Calculations (technical)](https://www.degreedays.net/)
 ```
