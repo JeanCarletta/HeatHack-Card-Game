@@ -24,7 +24,7 @@
 
 If you have a condensing boiler,  then it can recover heat from the hot gases that result from burning gas or oil, but this will only work if you run the boiler temperature low enough.   
   
-Before condensing boilers, installers recommended a boiler flow temperature of 80C.  Condensing boilers start to condense with a flow temperature of 70C.  The lower the flow temperature (down to 45C), the better the heat recovery works. 
+Before condensing boilers, boilers were intended to run at a flow temperature of 70-80C, and many of them are still set this way.  Condensing boilers can't recover heat unless the flow temperatuare is around 70C or below.  The lower the flow temperature (down to 45C), the better the heat recovery works. 
 
 
  ```{admonition} Safety
@@ -45,7 +45,7 @@ If you use a hot water storage tank, you need to keep the flow temperature 70C o
  
 ```{admonition} Is it a condensing boiler?
 :class: tip
-Condensing boilers have a small white plastic condensate pipe coming out of them, usually at the bottom.  They also have plastic flues.  The flues for non-condensing boilers are metal.   
+Condensing boilers have a small white plastic condensate pipe coming out of them, usually at the bottom.  All boilers installed since 2005 are condensing.
 ```
  
 
