@@ -32,6 +32,8 @@ Electric heating usually has a switch per room or per radiator already, although
 
 If zoning is overkill but you are heating a large area for the sake of one small office, you can also consider using a different source of heating altogether.
 
+If you decide to zone your building, keep in mind that if you have lightweight walls or air movement, trying to keep adjacent spaces very different temperatures will create draughts and make a cold wall very noticeable, affecting comfort.  You'll need to bring the building to a basic temperature and then just top up some rooms to normal levels rather than try to keep some spaces completely unheated.  
+
 ```{admonition} More information
 
 - [Description of cheap programmable TRV](https://heathack.org/a-mid-price-fix-for-trvs)

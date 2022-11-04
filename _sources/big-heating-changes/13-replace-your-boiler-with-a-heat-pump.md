@@ -46,5 +46,6 @@ For both types of heat pump, usually you will need to change to underfloor heati
 - [UK Heat and Buildings Strategy](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044598/6.7408_BEIS_Clean_Heat_Heat___Buildings_Strategy_Stage_2_v5_WEB.pdf)
 - [Grants in England and Wales](https://www.gov.uk/guidance/check-if-you-may-be-eligible-for-the-boiler-upgrade-scheme-from-april-2022)
 - [Lots of practical tips about heat pumps in churches (video)](https://www.youtube.com/watch?v=_2mkfUxlkzw)
+- [Understanding radiator output (technical)](https://www.heatgeek.com/do-i-need-to-upgrade-my-radiators-for-a-heat-pump/)
 - [Case study of underfloor heating in a church](https://www.churchofengland.org/about/environment-and-climate-change/towards-net-zero-carbon-case-studies/st-mary-willesborough)
 ```
