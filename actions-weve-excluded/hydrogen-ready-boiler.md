@@ -11,5 +11,6 @@ We view this as a last resort option for groups whose boilers stop working.  If 
 
 - [British Gas view of hydrogen boilers](https://www.britishgas.co.uk/the-source/greener-living/hydrogen-boilers.html)
 - [Which view of hydrogen boilers](https://www.which.co.uk/reviews/boilers/article/hydrogen-boilers-everything-you-need-to-know-afWnI9h2Bory)
+- [Analysis of the potential for hydrogen (video, technical)](https://www.heatgeek.com/the-great-hydrogen-boiler-conspiracy/)
 
 ```
