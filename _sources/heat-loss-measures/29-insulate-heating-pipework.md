@@ -20,3 +20,7 @@
 ```
 :::
 ::::
+
+Any pipes in the space you're trying to heat could be useful - in older systems, the heat they give off will be part of the design.  You only need to insulate them if they're making a room too warm.
+
+Any pipes that are in other spaces, including the boiler, should be insulated.  A good installer will insulate all the tricky bits, not just the straight lengths of pipe.  

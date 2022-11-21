@@ -20,7 +20,7 @@
 :::
 ::::
 
-Radiators and fan convectors require light maintenance to work effectively.  If your radiators are dusty, this will make your system less efficient because they won't shed heat as quickly.  It's also very important to clear the dust from filters on fan convectors because it both impedes the airflow and if it's thick enough, can damage the fan.
+Radiators and fan convectors require light maintenance to work effectively.  If your radiators are dusty, this will make your system less efficient because they won't shed heat as quickly.  It's also very important to clear the dust from filters on fan convectors because it both impedes the airflow and if it's thick enough, can damage the fan.  If your convectors are in high use that might need to be done twice a year.
 
 You also need to bleed the air from wet system radiators while the system is cold.  If a radiator gets warm at the bottom but not the top, it needs bleeding.  If you have old cast iron pipework there may be unusual bleed points in the system where air collects that are easy to forget.  In extreme cases, this could stop the heating in a whole circuit of radiators.
 

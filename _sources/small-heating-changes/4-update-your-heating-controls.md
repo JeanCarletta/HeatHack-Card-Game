@@ -45,7 +45,7 @@ Boilers that use the "OpenTherm" standard can be matched to a range of controls,
 
 ```{admonition} More information
  - [Help with Heating Controls and Thermostats](https://www.theheatinghub.co.uk/boiler/heating-controls)
- - [Explanation of the range of energy efficiency options for controls (technical - domestic, but same principles apply)])(https://www.beama.org.uk/resourceLibrary/guidance-on-how-to-comply-with-the-part-l-of-the-building-regulation-from-april-2018.html) 
+ - [Explanation of the range of energy efficiency options for controls (technical - domestic, but same principles apply)](https://www.beama.org.uk/resourceLibrary/guidance-on-how-to-comply-with-the-part-l-of-the-building-regulation-from-april-2018.html) 
  - [Choosing between weather and load compensation (technical)](https://www.heatgeek.com/weather-compensation-or-load-compensation/)
 - [Example of a control designed for social housing](https://www.warmworld.co.uk/)
 - [Example of a smartphone app controlling TRVs](https://www.securemeters.com/product/domestic-heating-controls/radbot-1/)

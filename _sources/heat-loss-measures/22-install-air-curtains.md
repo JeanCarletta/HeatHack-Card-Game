@@ -23,7 +23,7 @@
 :::
 ::::
 
-An air curtain is a fan-powered device that blows a jet of warm or room  temperature air over an open doorway.  It blocks cold air on one side from moving into a heated space. They have to be powerful and the full width of the door to work - otherwise they're just creating a nice feeling for people as they pass.  They usually let you vary the air temperature and fan speed so you can find the lowest settings that will work.
+An air curtain is a fan-powered device that blows a jet of warm or room  temperature air over an open doorway.  It blocks cold air on one side from moving into a heated space. They have to be powerful and the full width of the door to work. They usually let you vary the air temperature and fan speed so you can find the lowest settings that will work.  Air curtains struggle with wind, so they’re better on inner doors of vestibules than on external ones.  
 
 ```{image} https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Air_curtain_2010.jpg/1200px-Air_curtain_2010.jpg
 :alt: air curtain
@@ -33,8 +33,11 @@ An air curtain is a fan-powered device that blows a jet of warm or room  tempera
 ```
 *(c) Abodi009, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 
-Air curtains struggle with wind, so they’re better on inner doors of vestibules than on external ones.   This is a relatively expensive option for blocking cold air compared to a draught lobby or doors that close automatically.  
+ 
 
+We've never seen a proper "air curtain" in a community building.  Usually what we see are just over-door heaters that cheer up anyone standing in the doorway.  These will cost energy, not save it.   This is an expensive way to block cold air compared to a draught lobby or doors that close automatically.
+
+<!-- :TODO: move to "actions we've excluded" -->
 
 ```{admonition} More information
 - [Engineering Toolbox - air curtain requirements (techical)](https://www.engineeringtoolbox.com/air-curtains-d_129.html)
