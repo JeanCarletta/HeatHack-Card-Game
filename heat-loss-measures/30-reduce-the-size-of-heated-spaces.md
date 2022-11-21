@@ -21,6 +21,8 @@
 :::
 ::::
 
-Many community buildings have high ceilings.  If you don't need the height, putting in a false ceiling can substantially reduce the amount of heating you need.
+Many community buildings have high ceilings.  If you don't need the height, putting in a false ceiling can substantially reduce the amount of heating you need.  In the 1990's, one rule of thumb for church halls was that if you could reduce the space volume by 25% the change would pay back in reasonable time.  We don't know what the rule would be now.
 
-Similarly, if you have large spaces, finding a way to partition them into smaller ones - either permanently or as needed - can reduce your heating bills.
+Similarly, if you have large spaces, finding a way to partition them into smaller ones - either permanently or as needed - can reduce your heating bills.  
+
+

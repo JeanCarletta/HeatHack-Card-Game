@@ -25,6 +25,8 @@ As a very rough figure, 25% of the heat loss for an uninsulated building is thro
 
 With some community building roofs, the only option is to insulate when the roof needs replaced.  This is unfortunate and could make a localised heating strategy more attractive.  In some cases, installing a false ceiling could be a good approach (see "Reduce the size of heated spaces").
 
+- [Reduce the size of heated spaces](https://jeancarletta.github.io/HeatHack-Card-Game/heat-loss-measures/30-reduce-the-size-of-heated-spaces.html)
+
 As always, for traditional buildings, breatheability is important.
 
 ```{admonition} More information
