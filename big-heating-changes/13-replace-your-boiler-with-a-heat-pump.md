@@ -36,7 +36,7 @@ How easy it is to make the change depends on the building. Ground source heat pu
 
 The UK Government aspires to help industry make heat pumps cost the same as boilers by 2030.  In England and Wales, some non-domestic buildings qualify for grants to help towards the costs.  
 
-For both types of heat pump, usually you will need to change to underfloor heating at the same time, so it's definitely a change that needs planned ahead.  Running your current system with a boiler flow temperature of 45C will give you some idea of whether you have generously enough sized radiators to use them, or slightly larger radiators, without make other changes.  This is much more likely if you deal with heat loss first.  For lossy buildings in high use, underfloor heating delivers better comfort for lower energy input so it can make sense to stage change by installing the underfloor heating first with an eye to a heat pump later on.
+For both types of heat pump, usually you will need to change to underfloor heating at the same time, so it's definitely a change that needs planned ahead.  Running your current system with a boiler flow temperature of 45C will give you some idea of whether you have generously enough sized radiators to use them, or slightly larger radiators, without make other changes.  This is much more likely if you deal with heat loss first.  Pipework can also sometimes be too thin to deliver enough hot water.  For lossy buildings in high use, underfloor heating delivers better comfort for lower energy input so it can make sense to stage change by installing the underfloor heating first with an eye to a heat pump later on.
 
 
 
