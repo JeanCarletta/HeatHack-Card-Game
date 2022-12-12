@@ -26,6 +26,6 @@ Slim-line double glazing is almost imperceivable from the outside and acceptable
 For triple glazing to give you any benefit over double glazing, the walls have to be well-insulated - otherwise any heat the glazing saves from going through the windows will just go through the walls.  
 
 ```{admonition} More information
-- [U-value calculations - table shows values for glazing options (technical)](https://www.gov.scot/publications/tables-of-u-values-and-thermal-conductivity/)
+- [U-value calculations - table shows many glazing options (technical)](https://www.gov.scot/publications/tables-of-u-values-and-thermal-conductivity/)
 ```
 
