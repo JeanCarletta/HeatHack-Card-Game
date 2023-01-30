@@ -19,10 +19,7 @@ We post cards to the groups participating in our programme, but if you need them
 
 
 ```{admonition} Work in Progress
-This release of this document has space for all the cards, but these sections aren't complete yet: 
 
-- Heat loss measures
-- Windows
+We are also still researching good practical and technical links to include and finding case studies for the larger changes.  The last section mentions some changes we think we should make.  If you know something that would improve the game, please tell us!
 
-We are also still researching good practical and technical links to include and finding case studies for the larger changes.
 ```
