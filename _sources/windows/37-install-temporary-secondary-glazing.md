@@ -25,6 +25,10 @@ Secondary glazing is expensive and can take time to arrange.  If you don't need 
 
 There is also a very temporary very cheap option, which is a thick plastic wrap that you tape over the window and then shrink to fit using a hairdryer.   It’s a tenth the price, but it blocks a lot of light and every time you need to open the window, you have to start over with a new piece.  
 
+It is possible to get condensation between the panes with temporary secondary glazing, especially if the windows are in bad repair and let the rain in.  Draughtproofing is more expensive, but it comes first!  
+
+If you think this could be a useful solution, you could try one window first.   
+
 
 ```{admonition} More information
 - [Some fixing options](https://www.cse.org.uk/advice/advice-and-support/secondary-glazing)
