@@ -35,9 +35,11 @@ Even if you have controls that suit your users, outdated controls can still wast
 
 Controls designed for houses rarely limit the temperature range, although sometimes there are hidden settings that will, for instance, restrict the top temperature to the value you specify.  It's also relatively hard to find models that allow users to make temporary changes - essential for keeping them happy - but not permanent ones.  Where this exists, it's usually described as a "lock" that you have to overcome to make permanent changes.  It is more common in controls designed for social housing.
 
-Controls change all the time.  "Smart" TRVs are now available that can be programmed separately via an app but still let the user make some changes at the radiator.   We expect these to be very useful for community buildings with lots of rooms that aren't all always in use, but you need to be careful to understand what they do and don't allow.  The more appropriate ones for community buildings have "zonal controls" with heating schedules for each zone rather than sensing whether the room is occupied.   
+Some new "smart" controls can be programmed via an app but still let the user make some changes at the radiator.   We expect these to be very useful for community buildings with lots of rooms that aren't all always in use, but you need to be careful to understand what they do and don't allow.  Some are fully automated, learning how a room is used over time from when it sees lights go on and off and when people make changes to the thermostats.  These are only useful with very regular heating schedules.  The more appropriate ones for community buildings have "zonal controls" with heating schedules for each zone, let you set upper and lower temperature limits, but might still allow space users to make some changes.  None of them appear to have optimised start control, which is very important in buildings that are leaky and only heated occasionally.
 
-Boilers that use the "OpenTherm" standard can be matched to a range of controls, but sometimes it's necessary to use controls from the boiler's manufacturer.
+ Boilers that use the "OpenTherm" standard can be matched to a range of controls.  Some other boilers can only used controls from the same manufacturer or lack the ability to work with modern control features.  On the other hand, some installers will say the controls can't be changed just because they don't want the hassle of wiring anything but the model they know. 
+
+ What you need will vary with your circumstances.  We don't have experience of all the systems below and sometimes to get enough detail you have to call the manufacturer.  We are happy to work with groups to try to work out what they need and develop better information for everyone.
 
 
 <!-- https://www.techradar.com/news/best-smart-thermostat -->
@@ -47,6 +49,8 @@ Boilers that use the "OpenTherm" standard can be matched to a range of controls,
  - [Help with Heating Controls and Thermostats](https://www.theheatinghub.co.uk/boiler/heating-controls)
  - [Explanation of the range of energy efficiency options for controls (technical - domestic, but same principles apply)](https://www.beama.org.uk/resourceLibrary/guidance-on-how-to-comply-with-the-part-l-of-the-building-regulation-from-april-2018.html) 
  - [Choosing between weather and load compensation (technical)](https://www.heatgeek.com/weather-compensation-or-load-compensation/)
-- [Example of a control designed for social housing](https://www.warmworld.co.uk/)
-- [Example of a smartphone app controlling TRVs](https://www.securemeters.com/product/domestic-heating-controls/radbot-1/)
+- [Example of a programmable room stat that limits what users can do](https://www.warmworld.co.uk/)
+- [Example of a thermostat with upper and lower limits and no permanent override](https://www.ephcontrols.com/section/delay-start-thermostat/)
+- [Honeywell Evohome - smart control](https://www.trustedreviews.com/reviews/honeywell-evohome-2)
+- [Tado - smart control](https://www.trustedreviews.com/reviews/tado-smart-thermostat-v3-plus)
 ```
