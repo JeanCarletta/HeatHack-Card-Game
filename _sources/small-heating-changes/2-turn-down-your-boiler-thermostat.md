@@ -24,16 +24,6 @@
 
 If you have a condensing boiler,  then it can recover heat from the hot gases that result from burning gas or oil, but this will only work if you run the boiler temperature low enough.   
   
-Before condensing boilers, boilers were intended to run at a flow temperature of 70-80C, and many of them are still set this way.  Condensing boilers can't recover heat unless the flow temperatuare is around 70C or below.  The lower the flow temperature (down to 45C), the better the heat recovery works. 
-
-
- ```{admonition} Safety
-:class: warning
-
-If you use a hot water storage tank, you need to keep the flow temperature 70C or above to avoid Legionella.  The tank needs temperatures above 60C to kill the bacteria, and there is some heat loss between the boiler and the tank.
-
-```
-
 ```{image} ../images/combi-boiler-hall.jpg
 :alt: combi boiler facade has dials for controlling boiler and hot water temperature
 :class: bg-primary mb-1
@@ -41,7 +31,18 @@ If you use a hot water storage tank, you need to keep the flow temperature 70C o
 :align: center
 ```
 
- Whether you can get adequate heat out of the system at, say, 60C – what’s starting to be labelled as “economy” on boilers -  depends.  Lower temperatures are more likely work with generously sized radiators, well insulated buildings, and buildings in high use.  Fan convectors usually require higher flow temperatures – this will be specified in the manual.  
+Before condensing boilers, boilers were intended to run at a flow temperature of 70-80C, and many of them are still set this way.  Condensing boilers can't recover heat unless the flow temperature is around 70C or below.  The lower the flow temperature (down to 45C), the better the heat recovery works. 
+
+Lowering the temperatures is more likely work with generously sized radiators, buildings with lower heat loss, and buildings that are heated most of the day rather than for individual events.  If you have an older building in a reasonable state, you might get away with 60C.   If you have a newer building that's insulated, 50-55C might be more appropriate.  
+
+```{admonition} Be careful
+:class: warning
+
+If you use a **hot water storage tank**, you need to keep the flow temperature 70C or above to avoid Legionella.  The tank needs temperatures above 60C to kill the bacteria, and there is some heat loss between the boiler and the tank. 
+
+**Fan convectors** usually require higher flow temperatures. This will be specified in the manual.
+
+```
  
 ```{admonition} Is it a condensing boiler?
 :class: tip
