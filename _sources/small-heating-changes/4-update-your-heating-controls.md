@@ -31,7 +31,7 @@ Even if you have controls that suit your users, outdated controls can still wast
 
 - predict when to turn the heating on to get a space to a given temperature by a given time, taking away the need to guess and change the timings when the weather changes. This is usually called "optimum start control". One big benefit of having it is that you can specify different temperatures at different times, making it cooler for people who are physically active.
 - vary their output so they put out less heat when it's warm outside.  This is called "weather compensation". 
-- put out less heat when the building is close to the target temperature, to avoid overshooting.  This is called "load compensation".
+- put out less heat when the building is close to the target temperature, to avoid overshooting.  This is called "load" or "room compensation".
 
 Controls designed for houses rarely limit the temperature range, although sometimes there are hidden settings that will, for instance, restrict the top temperature to the value you specify.  It's also relatively hard to find models that allow users to make temporary changes - essential for keeping them happy - but not permanent ones.  Where this exists, it's usually described as a "lock" that you have to overcome to make permanent changes.  It is more common in controls designed for social housing.
 
