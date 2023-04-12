@@ -22,9 +22,9 @@
 :::
 ::::
 
-Biomass boilers burn organic matter instead of fossil fuels – often wood pellets from Canada.  They are considered to be carbon neutral because when the biomass grows it takes carbon out of the atmosphere that balances out what is released when the material is burned.  Burning biomass does create air pollution so it is only allowed in rural areas, and it is more environmentally friendly if the feed stock is waste material rather than grown specifically to burn.  
+Biomass boilers burn organic matter instead of fossil fuels – often wood pellets from Canada.  They are considered to be carbon neutral because when the biomass grows it takes carbon out of the atmosphere that balances out what is released when the material is burned.  Burning biomass creates air pollution so it is only allowed in rural areas, and it is more environmentally friendly if the feed stock is waste material rather than grown specifically to burn.  
 
-Despite the disadvantages, biomass boilers clearly have a role to play in the UK’s transition to net zero.  The UK aspires eventually to phase biomass out for buildings and just use it in power stations.  This is so they can scrub the emissions and use carbon capture and storage to make it a lower carbon technology.  If you have an oil-fired boiler that will need replaced soon and there's some reason why you can't switch to a heat pump, it's possible that this will be your best option.
+Despite the disadvantages, biomass boilers clearly have a role to play in the UK’s transition to net zero.  The UK aspires eventually to phase biomass out for buildings and just use it in power stations.  This is so they can scrub the emissions and use carbon capture and storage to make it a lower carbon technology.  If you have an oil-fired boiler that will need replaced soon and there's some reason why you can't switch to electric heating, this may be your best option.
 
 
 ```{admonition} More information

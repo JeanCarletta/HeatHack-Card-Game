@@ -38,6 +38,6 @@ About calculating the heat output of radiators and pipes - for electric applianc
 
 About estimating heat requirements of a room:
 - [Technical method - Engineering Toolbox](https://www.engineeringtoolbox.com/heat-loss-buildings-d_113.html)
-- [Online calculcator for a house](https://great-home.co.uk/radiator-sizing-guide-and-btu-calculator/)
+- [Online calculator for a house](https://great-home.co.uk/radiator-sizing-guide-and-btu-calculator/)
 
 ```
