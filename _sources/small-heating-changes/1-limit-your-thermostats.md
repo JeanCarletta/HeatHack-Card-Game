@@ -35,7 +35,7 @@ Almost everyone thinks that if you turn a thermostat all the way up, the room wi
 :align: center
 ```
 
-Some thermostats, including wet system TRVs, will let you adjust or insert plastic pins that keep them from being turned too high or too low.  It's also sometimes possible to find “low range” TRVs that limit the top temperature to, for instance, 18C.  There are also tamper-proof caps and covers that will keep people from altering TRVs and thermostats at all.  
+Some thermostats, including wet system TRVs, will let you adjust or insert pins that keep them from being turned too high or too low.  It's also sometimes possible to find “low range” TRVs that limit the top temperature to, for instance, 18C.  There are also tamper-proof caps and covers that will keep people from altering TRVs and thermostats at all.  
 
 Updating your heating controls so users can do exactly what they need and no more is an even better idea, but limiting your thermostats is often a very cheap fix.  
 
@@ -43,6 +43,8 @@ Updating your heating controls so users can do exactly what they need and no mor
 ```{admonition} More information
 
 - [Drayton TRV features including limiting pin](https://www.draytoncontrols.co.uk/news/unlocking-secrets-trv4-0)
+- [Drayton TRV limiting pins](https://www.draytoncontrols.co.uk/product/trv4-range-limiting-pins)
+- [Danfoss TRV limiting pins](https://www.youtube.com/watch?v=_VvtRxOoO3k)
 - [Example tamper-proof TRV cover](https://www.draytoncontrols.co.uk/product/drayton-tamperproof-trv-guard)
 - [Example tamper-proof room thermostat cover](https://store.danfoss.com/en/Climate-Solutions-for-heating/Hydronic-floor-heating/Room-controls/Danfoss-Icon-tamper-proof-cover-86x86/p/088U1113)
 
