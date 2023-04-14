@@ -53,4 +53,5 @@ Some new "smart" controls can be programmed via an app but still let the user ma
 - [Example of a thermostat with upper and lower limits and no permanent override](https://www.ephcontrols.com/section/delay-start-thermostat/)
 - [Honeywell Evohome - smart control](https://www.trustedreviews.com/reviews/honeywell-evohome-2)
 - [Tado - smart control](https://www.trustedreviews.com/reviews/tado-smart-thermostat-v3-plus)
+- [Drayton Wiser - community hall case study](https://wiser.draytoncontrols.co.uk/blog/wiser-customer-stories-supporting-local-community-hub-save-energy-and-money)
 ```
